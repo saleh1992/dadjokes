@@ -1,6 +1,6 @@
 <template>
  <div>
-  index page
+  index page.
  </div>
 </template>
 
